@@ -1,6 +1,4 @@
 # mini-project-creating-sidebar-
-# Responsive Sliding Sidebar Navigation Menu
-
 A responsive and interactive sidebar navigation menu built using HTML and CSS. It features smooth slide animations, hover effects, and a clean modern design for an enhanced user experience across different devices.
 
 ## Features
